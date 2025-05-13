@@ -7,7 +7,7 @@
 
 ## 🛠 기술 스택
 
-- Python 3.x
+- Python 3.9
 - Selenium
 - BeautifulSoup4
 - Pandas
